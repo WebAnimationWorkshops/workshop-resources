@@ -1,4 +1,4 @@
-# Advanced SVG Workshop
+# Web Animation Workshops Resources
 
 This repo houses resources for Web Animation Workshops
 
