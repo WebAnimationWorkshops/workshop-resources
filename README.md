@@ -7,7 +7,7 @@ This repo houses resources for Web Animation Workshops
 We'll be using codepen for both the teaching demos and the homework so that we can get you up and running faster. For sections covering React-Motion, it may make more sense to use Create-React-App so that your workflow more closely mirrors development, but that decision is up to you.
 
 ##Slides:
-* [Classic animation principles worth stealing]()
+* [Classic animation principles worth stealing](https://www.slideshare.net/secret/1yK01w1F4bNpNz)
 * [Principles of UI/UX animation](http://slides.com/sdrasner/waw-principles-ux?token=258_EYo8)
 * [Essentials of CSS animation](http://slides.com/vlh/waw-cssanimation?token=emxTzAcD)
 * [Basics of TweenMax & TimelineMax](http://slides.com/sdrasner/waw-gsap?token=rg606T3G)
@@ -19,4 +19,9 @@ We'll be using codepen for both the teaching demos and the homework so that we c
 Password to all decks is WAW!
 
 ##Codepen Collections:
-* [SVG animation and GreenSock](http://codepen.io/collection/XvBQJQ/)
+* [CSS Excercises](http://codepen.io/collection/DBLaex/)
+* [SVG Animation and GreenSock](http://codepen.io/collection/XvBQJQ/)
+
+##Our Twitter Contact Info
+* [Sarah Drasner](https://twitter.com/sarah_edo)
+* [Val Head](https://twitter.com/vlh)
