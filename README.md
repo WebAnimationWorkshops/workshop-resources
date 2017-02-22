@@ -7,6 +7,7 @@ This repo houses resources for Web Animation Workshops
 We'll be using CodePen for both the teaching demos and the homework so that we can get you up and running faster. For sections covering React-Motion, it may make more sense to use Create-React-App so that your workflow more closely mirrors development, but that decision is up to you.
 
 ##Slides:
+* [Introduction](http://slides.com/vlh/sfintro?token=iCyyEVss)
 * [Classic animation principles worth stealing](https://www.slideshare.net/secret/1yK01w1F4bNpNz)
 * [Principles of UI/UX animation](http://slides.com/sdrasner/waw-principles-ux?token=258_EYo8)
 * [Essentials of CSS animation](http://slides.com/vlh/waw-cssanimation?token=emxTzAcD)
@@ -15,7 +16,7 @@ We'll be using CodePen for both the teaching demos and the homework so that we c
 * [SVG animation](http://slides.com/sdrasner/waw-svg-animation?token=D-wwuju5)
 * [The Web Animation API](http://slides.com/vlh/waw-waapi?token=wz6rRkTn)
 * [Web Animation Performance](http://slides.com/vlh/waw-webanimationperf?token=3xSwGsW5)
-* [Intro to Animating with React](http://slides.com/vlh/sfintro?token=iCyyEVss)
+* [Intro to Animating with React](http://slides.com/vlh/intro-anim-react?token=CNlmb06B#/)
 * [Animating with React cont.](http://slides.com/sdrasner/waw-react?token=Pmgv8l9k)
 * [Mo.js](http://slides.com/sdrasner/svg-workshop-mojs?token=wAkiI-Pe)
 
